@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "nelsonhernandez20 <nelsonhernandez335@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "localforage": "^1.10.0"
+  }
 }
